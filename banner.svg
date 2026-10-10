@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Emilia Ruszczyk, web designer and front-end builder">
+  <rect width="1200" height="300" rx="18" fill="#1C2321"/>
+  <rect x="64" y="128" width="570" height="18" fill="#F2D04B" opacity="0.9"/>
+  <text x="64" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#EEF0EC" letter-spacing="-1.5">Emilia Ruszczyk</text>
+  <text x="66" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#C9CFC8">Web designer &amp; front-end builder</text>
+  <text x="66" y="232" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8C9CFF">Landing pages, dashboards and small AI tools</text>
+  <g transform="translate(760 70) rotate(-6)">
+    <rect width="170" height="200" rx="10" fill="#EEF0EC"/><rect x="12" y="12" width="146" height="10" rx="3" fill="#C9CFC8"/>
+    <rect x="12" y="34" width="146" height="70" rx="6" fill="#2440D8"/><rect x="12" y="116" width="110" height="8" rx="3" fill="#5F6A63"/>
+    <rect x="12" y="132" width="130" height="8" rx="3" fill="#C9CFC8"/><rect x="12" y="160" width="60" height="22" rx="11" fill="#1C2321"/>
+  </g>
+  <g transform="translate(890 50) rotate(3)">
+    <rect width="170" height="200" rx="10" fill="#EEF0EC"/><rect x="12" y="12" width="146" height="10" rx="3" fill="#C9CFC8"/>
+    <rect x="12" y="34" width="68" height="60" rx="6" fill="#F2D04B"/><rect x="90" y="34" width="68" height="60" rx="6" fill="#C9CFC8"/>
+    <rect x="12" y="104" width="146" height="50" rx="6" fill="#DDE2DC"/><polyline points="20,145 50,125 80,135 110,112 150,118" fill="none" stroke="#2440D8" stroke-width="3"/>
+    <rect x="12" y="166" width="100" height="8" rx="3" fill="#5F6A63"/>
+  </g>
+  <g transform="translate(1010 92) rotate(9)">
+    <rect width="140" height="170" rx="10" fill="#EEF0EC"/><circle cx="70" cy="50" r="26" fill="#2440D8"/>
+    <rect x="22" y="92" width="96" height="8" rx="3" fill="#5F6A63"/><rect x="32" y="108" width="76" height="8" rx="3" fill="#C9CFC8"/>
+    <rect x="40" y="130" width="60" height="22" rx="11" fill="#F2D04B"/>
+  </g>
+</svg>

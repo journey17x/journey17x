@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="How I work: brief, build in v0, refine by hand, ship on Vercel">
+  <style>
+    .flow { stroke-dasharray: 6 8; animation: run 1.2s linear infinite; }
+    @keyframes run { to { stroke-dashoffset: -28; } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+  </style>
+  <rect width="1200" height="330" rx="18" fill="#1C2321"/>
+  <text x="60" y="62" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#EEF0EC">From idea to live page, usually in a day</text>
+  <g stroke="#8C9CFF" stroke-width="3" fill="none">
+    <line class="flow" x1="290" y1="185" x2="340" y2="185"/>
+    <line class="flow" x1="570" y1="185" x2="620" y2="185"/>
+    <line class="flow" x1="850" y1="185" x2="900" y2="185"/>
+  </g>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <g transform="translate(60 120)"><rect width="230" height="130" rx="14" fill="#2A3330" stroke="#3B4542"/><circle cx="28" cy="32" r="8" fill="#F2D04B"/>
+      <text x="46" y="38" font-size="20" font-weight="700" fill="#EEF0EC">Brief</text><text x="22" y="76" font-size="16" fill="#C9CFC8">Goals, audience,</text><text x="22" y="98" font-size="16" fill="#C9CFC8">copy and references</text></g>
+    <g transform="translate(340 120)"><rect width="230" height="130" rx="14" fill="#2A3330" stroke="#3B4542"/><circle cx="28" cy="32" r="8" fill="#8C9CFF"/>
+      <text x="46" y="38" font-size="20" font-weight="700" fill="#EEF0EC">Build with AI</text><text x="22" y="76" font-size="16" fill="#C9CFC8">First version in v0,</text><text x="22" y="98" font-size="16" fill="#C9CFC8">fast iterations</text></g>
+    <g transform="translate(620 120)"><rect width="230" height="130" rx="14" fill="#2A3330" stroke="#3B4542"/><circle cx="28" cy="32" r="8" fill="#8C9CFF"/>
+      <text x="46" y="38" font-size="20" font-weight="700" fill="#EEF0EC">Refine by hand</text><text x="22" y="76" font-size="16" fill="#C9CFC8">Layout, type, mobile</text><text x="22" y="98" font-size="16" fill="#C9CFC8">and small details</text></g>
+    <g transform="translate(900 120)"><rect width="240" height="130" rx="14" fill="#EEF0EC"/><circle cx="28" cy="32" r="8" fill="#2440D8"/>
+      <text x="46" y="38" font-size="20" font-weight="700" fill="#1C2321">Ship</text><text x="22" y="76" font-size="16" fill="#5F6A63">Deployed on Vercel,</text><text x="22" y="98" font-size="16" fill="#5F6A63">ready to share</text></g>
+  </g>
+  <text x="60" y="296" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA59E">Next.js, React, Tailwind CSS, TypeScript</text>
+</svg>

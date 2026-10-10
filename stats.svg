@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="51 projects since April 2026, 16 landing pages, 7 dashboards and tools, 5 client websites">
+  <rect width="1200" height="190" rx="18" fill="#1C2321"/>
+  <g transform="translate(30 20)"><rect width="270" height="150" rx="14" fill="#2A3330" stroke="#3B4542"/>
+    <text x="24" y="78" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#8C9CFF">51</text>
+    <text x="26" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#EEF0EC">projects built</text><text x="26" y="134" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA59E">since April 2026</text></g>
+  <g transform="translate(320 20)"><rect width="270" height="150" rx="14" fill="#2A3330" stroke="#3B4542"/>
+    <text x="24" y="78" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#8C9CFF">16</text>
+    <text x="26" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#EEF0EC">landing pages</text><text x="26" y="134" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA59E">SaaS, travel, fashion, B2B</text></g>
+  <g transform="translate(610 20)"><rect width="270" height="150" rx="14" fill="#2A3330" stroke="#3B4542"/>
+    <text x="24" y="78" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#8C9CFF">7</text>
+    <text x="26" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#EEF0EC">dashboards &amp; tools</text><text x="26" y="134" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA59E">analytics, calculators</text></g>
+  <g transform="translate(900 20)"><rect width="270" height="150" rx="14" fill="#2A3330" stroke="#3B4542"/>
+    <text x="24" y="78" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#8C9CFF">5</text>
+    <text x="26" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#EEF0EC">client websites</text><text x="26" y="134" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA59E">for Polish businesses</text></g>
+</svg>
