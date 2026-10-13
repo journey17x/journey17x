@@ -20,6 +20,7 @@ I'm a **web designer and front-end builder** from Poland. I use AI tools like **
 - 📊 **7 dashboards & tools**, from language analytics to a product configurator
 - 🧩 **8 reusable components** like AI flashcards, an ROI calculator and social proof sections
 - 🏢 **5 client websites** for Polish businesses
+- ⚡ **1 business workflow automation** built in Zoho
 
 ---
 
@@ -63,6 +64,14 @@ I'm a **web designer and front-end builder** from Poland. I use AI tools like **
 </tr>
 </table>
 
+### ⚡ New: Workflow automation
+
+**[Client Onboarding Automation](https://github.com/journey17x/client-onboarding-automation)**
+*Standardize intake first, then automate intake → welcome doc → task assignments.*
+One intake form creates the CRM contact, emails the client a personalized welcome pack, and assigns the onboarding tasks. Onboarding went from about **3 hours to 25 minutes** per client.
+
+![Zoho Forms](https://img.shields.io/badge/Zoho-Forms-2350d8?style=flat-square) ![Zoho Flow](https://img.shields.io/badge/Zoho-Flow-2350d8?style=flat-square) ![Zoho CRM](https://img.shields.io/badge/Zoho-CRM-2350d8?style=flat-square) ![Zoho Writer](https://img.shields.io/badge/Zoho-Writer-2350d8?style=flat-square) ![Zoho Projects](https://img.shields.io/badge/Zoho-Projects-2350d8?style=flat-square)
+
 👉 **See all 51 projects on my portfolio: [journey17x.github.io](https://journey17x.github.io)**
 
 ---
@@ -71,6 +80,7 @@ I'm a **web designer and front-end builder** from Poland. I use AI tools like **
 
 **Front-end**: Next.js, React, TypeScript, Tailwind CSS, HTML & CSS  
 **AI tools**: v0, Claude  
+**Automation**: Zoho Flow, Forms, CRM, Writer, Projects  
 **Deploy & tools**: Vercel, GitHub
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -79,13 +89,14 @@ I'm a **web designer and front-end builder** from Poland. I use AI tools like **
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=v0&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white)
 
 ---
 
 ## 🧭 Currently
 
 **Focused on**: landing pages for small businesses, portfolio sites, AI-powered components  
-**Exploring**: interactive web experiences and design systems
+**Exploring**: interactive web experiences, design systems and no-code workflow automation
 
 ---
 
